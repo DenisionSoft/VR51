@@ -1,7 +1,6 @@
 ## ДОБРО ПОЖАЛОВАТЬ В СЕТЬ
 
-Виртуальный мир приветствует тебя в свои объятья, игрок!
-Наслаждайся
+Приветствую в виртуальном мире, игрок! На этом сервере тебя ждёт множество развлечений и приключений. Посети все инстансы на уровнях
 
 ### Markdown
 
@@ -25,12 +24,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DenisionSoft/VR51/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](https://sun9-68.userapi.com/c855036/v855036240/1bb2b9/NVAsK3qYyb8.jpg)
