@@ -24,4 +24,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-![Image](https://sun9-68.userapi.com/c855036/v855036240/1bb2b9/NVAsK3qYyb8.jpg)
+![Image](https://imgur.com/a/h8x3zTd)
